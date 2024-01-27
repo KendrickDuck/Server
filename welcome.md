@@ -4,4 +4,4 @@ Hi and welcome to the KendrickDuck server. In order to play in the server a few 
 
 
 ## 1. Download Forge
-The first thing is to download Forge 1.20.1 (47.2.20). The installer can be found [here]()
+The first thing is to download Forge 1.20.1 (47.2.20). The installer can be found [here](forge/forge-1.20.1-47.2.20-installer.jar)
