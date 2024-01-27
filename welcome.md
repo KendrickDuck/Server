@@ -19,3 +19,5 @@ You should be able to find your newly created installation at the very bottom. H
 Once the game is done launching and you're at the main menu, leave the game by clicking [Quit Game](welcome.md) on the main menu.
 
 ## 2. Download and install mods
+
+Go to [mods](mods) and download the mods.
