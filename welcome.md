@@ -20,4 +20,4 @@ Once the game is done launching and you're at the main menu, leave the game by c
 
 ## 2. Download and install mods
 
-Go to [mods](mods) and download the mods.
+Go to [mods](mods) and download the mods contained in the folder. Alternatively, you can download the [zip] file which contains all the mods.
