@@ -10,7 +10,7 @@ Create a blank folder in your computer and name it. This will be the directory o
 
 Once you have Forge installed and created your directory, open the minecraft launcher. 
 
-Click on [Installations](welcome.md), then <a>New Installation</a>. Under [Version](welcome.md), select [release 1.20.1-forge-47.2.20](welcome.md) (You might have to scroll or type to find it). Under [Game Directory](welcome.md), click [Browse](welcome.md) next to the search bar and select the empty folder you have just created.
+Click on [Installations](welcome.md), then [New Installation](#). Under [Version](welcome.md), select [release 1.20.1-forge-47.2.20](welcome.md) (You might have to scroll or type to find it). Under [Game Directory](welcome.md), click [Browse](welcome.md) next to the search bar and select the empty folder you have just created.
 
 Click [Create](welcome.md) once you have everything set up.
 
