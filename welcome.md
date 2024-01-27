@@ -10,7 +10,7 @@ Create a blank folder in your computer and name it. This will be the directory o
 
 Once you have Forge installed and created your directory, open the minecraft launcher. 
 
-Click on [Installations](welcome.md), then [New Installation](welcome.md). Under [Version](welcome.md), select [release 1.20.1-forge-47.2.20](welcome.md) (You might have to scroll or type to find it). Under [Game Directory](welcome.md), click [Browse](welcome.md) next to the search bar and select the empty folder you have just created.
+Click on [Installations](welcome.md), then <a>New Installation<\a>. Under [Version](welcome.md), select [release 1.20.1-forge-47.2.20](welcome.md) (You might have to scroll or type to find it). Under [Game Directory](welcome.md), click [Browse](welcome.md) next to the search bar and select the empty folder you have just created.
 
 Click [Create](welcome.md) once you have everything set up.
 
@@ -20,4 +20,6 @@ Once the game is done launching and you're at the main menu, leave the game by c
 
 ## 2. Download and install mods
 
-Go to [mods](mods) and download the mods contained in the folder. Alternatively, you can download the [zip] file which contains all the mods.
+Go to [mods](mods) and download the mods contained in the folder. Alternatively, you can download the [zip](mods.zip) file which contains all the mods.
+
+Once you have downloaded all the mods, open your game directory (You can do this through minecraft launcher by clicking the folder icon next to [Play](welcome.md). Select the [mods](welcome.md) tab
