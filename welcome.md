@@ -1,4 +1,4 @@
-# KendrickDuck Server Setup Guide
+# KendrickDuck Setup Guide
 
 Hi and welcome to the KendrickDuck server. In order to play in the server a few setups are required. Please follow the steps down below to get ready for the magic of KendrickDuck!!
 
