@@ -8,4 +8,4 @@ The first thing is to download Forge 1.20.1 (47.2.20). The installer can be foun
 
 Create a blank folder in your computer and name it. This will be the directory of your Forge installment.
 
-Once you have Forge installed, open the minecraft launcher. Click on [Installations](), then [New Installation](). Under [Version](), select [release 1.20.1-forge-47.2.20]() (You might have to scroll or type to find it). 
+Once you have Forge installed, open the minecraft launcher. Click on [Installations](welcome.md), then [New Installation](welcome.md). Under [Version](welcome.md), select [release 1.20.1-forge-47.2.20](welcome.md) (You might have to scroll or type to find it). 
