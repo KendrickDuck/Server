@@ -30,6 +30,6 @@ Now go back to the launcher and launch the game.
 
 Once you have launched the game, click on [Multiplayer](#) under the main menu, click on [Add Server](#). Under [Server Address](#), type the server domain and click [Done](#).
 
-**Server Domain:** Kendrickduck.aternos.me:9898
+**Server Domain:** flagfish.aternos.host:56203
 
 You're all set! Connect and enjoy! :))
